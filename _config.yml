@@ -1,0 +1,28 @@
+name: Davidwang
+favicon: null
+layout_spectrum: 0.994712988846004
+typography_spectrum: 0.8014297648333013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9144634259864688
+  lightness: 0.9203783664852381
+  saturation: 0.42135468893684447
+  rhythmicContrast: 0.030405783792957664
+purpose: []
